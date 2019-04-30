@@ -79,3 +79,15 @@ Acoustic Model = sounds pronunciation
 Pronunciation Dictionary = language / words
 Language model = phrases
 
+Training data => just train sounds to words and phrases, skip the sound (acustic) model to pronunciations.
+
+https://github.com/facebookresearch/wav2letter
+
+Training using simulations
+
+Choosing right person by pattern recognition.
+
+Names are harder to understand. Regional characteristics.
+
+
+
