@@ -89,5 +89,18 @@ Choosing right person by pattern recognition.
 
 Names are harder to understand. Regional characteristics.
 
+Text to Speach (TTS) - obtain personal audio
+
+## FBT
+
+https://facebookincubator.github.io/fbt/
+https://github.com/facebookincubator/fbt
+
+```
+<fbt:pronoun type="possessive" gender={} human="true">
+```
+
+https://facebookincubator.github.io/fbt/docs/pronouns
+
 
 
